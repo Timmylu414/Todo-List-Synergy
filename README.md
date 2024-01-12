@@ -1,3 +1,5 @@
+<img width="911" alt="image" src="https://github.com/Timmylu414/Todo-List-Synergy/assets/75452456/4f36fd54-3361-4373-9962-5c11449090b1">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
