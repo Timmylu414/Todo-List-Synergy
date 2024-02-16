@@ -1,4 +1,5 @@
-<img width="911" alt="image" src="https://github.com/Timmylu414/Todo-List-Synergy/assets/75452456/4f36fd54-3361-4373-9962-5c11449090b1">
+<img width="851" alt="image" src="https://github.com/Timmylu414/Todo-List-Synergy/assets/75452456/be7cb119-b731-44e4-8318-3edcddccaf3c">
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
